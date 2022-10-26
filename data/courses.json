@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "img": "https://www.vikaspublishing.com/uploads/bookimages/vikas-books/9789325981096.jpg",
+        "title": "CSE 215",
+        "name": "Fundamentals of Computer Programming",
+        "time": 4,
+        "fee": 22,
+        "details": "Course Summary: This course introduces the basic concepts and techniques of object oriented programming. Actual computer programs are constructed by apply object oriented programming concepts and using an OOP language. Java is primarily chosen as the programming language in this course. The following topics are covered in this course: Java syntax with elementary programming, primitive data types, strings, operators, statements, arrays and methods, introduction to OOP, classes and objects, constructor, polymorphism, abstract classes and interfaces, file IO operations, handling exceptions in Java, GUI, multithreading, generics and related concepts.",
+        "obj": "Course Objectives: The objectives of this course are:to become use to the basics of elementary programming such as variables, conditional and iterative execution, arrays and methods in Java; to understand the attributes of object oriented programming (encapsulation, polymorphism, etc.) and concepts of OOP such as method overloading, method overriding, static and dynamic binding, abstract class, interface, visibility modifiers; to design a programming solution using the object oriented programming concept, and apply the concepts of exception handling, graphical user interface (GUI), event-driven programming, multi-threaded programming, generics in Java; to introduce Java SDK and Java IDE tools to develop Java applications with debugging; to work in a project team to support as a team member to develop applications",
+        "requirements": "CSE173 Programming Language I"
+    },
+    {
+        "id": 2,
+        "img": "https://miro.medium.com/max/1200/1*KpDOKMFAgDWaGTQHL0r70g.png",
+        "title": "CSE 225",
+        "name": "Data Structure",
+        "time": 3,
+        "fee": 23,
+        "details": "Course Summary: This course is about an introduction to the theory and practice of data structuring techniques. Topics include internal data representation, abstract data types (ADT), stacks, queues, list structures, recursive data structures, trees, regraphs and networks. Concept of object orientation as a data abstraction technique will be introduced.",
+        "obj": "Course Objectives: The objectives of this course are to introduce the basic data structures for storage and retrieval of ordered or unordered data using arrays, linked lists, binary trees, heaps, graphs and hash tables. introduce the concept of problem domain analysis and exploit the domain features to improve data structures efficiency. develop the concept of asymptotic analysis using Big-O techniques to compare different algorithmic solutions.",
+        "requirements": "CSE 215 (Computer Programming II)"
+    },
+    {
+        "id": 3,
+        "img": "https://pictures.abebooks.com/isbn/9780071289429-us.jpg",
+        "title": "CSC 473",
+        "name": "Introduction to Theory of Computation",
+        "time": 3,
+        "fee": 27,
+        "details": "Theorem proving, propositional logic, first order logic, finite automata, formal languages, Turing machines, uncomputability, computational complexity and NP completeness.",
+        "obj": "Course Objectives: The objectives of this course are to illustrate the programming paradigms, principles, fundamental concepts and techniques involved in design and implementation of major programming languages, elaborate key programming concepts of major imperative, declarative, and object-oriented programming languages, their merits and limitations, familiarize , concurrency control, and exception handling . demonstrate key concepts of functional and logic programming languages, their purpose and applications",
+        "requirements": "CSE 173, CSE 225"
+    },
+    {
+        "id": 4,
+        "img": "https://www.informit.com/ShowCover.aspx?isbn=013600637X",
+        "title": "CSE 311",
+        "name": "Database Systems",
+        "time": 3,
+        "fee": 24,
+        "details": "Course Summary: This course introduces students with database management systems for the first time in their undergraduate study. Drawbacks of flat file system are demonstrated and advantages of relational database systems are introduced. The course examines the logical organization of databases: the entity-relationship model; the hierarchical, network, and relational data models and their languages. Functional dependencies and normal forms are discussed.  Design, implementation, and optimization of query languages; security and integrity; concurrency control, different level of indices, e.g., tree and hash based indices are introduced. Access costs are compared for different alternatives. This course has separate mandatory laboratory sessions every week in a separate course CSE 311L which has 0 credits, but the students (in group) use hands on SQL queries and as a culmination, they build a full fledged database system including a front end. The evaluation of the lab works is carried over to the theory part of the course.",
+        "obj": "Course Objectives: The objectives of this course are to make students comprehend the advantages of using database system over flat files. to get students familiar with requirement analysis specially data requirements of an organization. To introduce the conceptual design from requirement analysis using E-R diagrams and also mapping ER diagrams into relational schema. to introduce the basics and usage of relational algebra that are the foundation of SQL. to transform a relational design into physical database design using popular commercialized database, e.g., Oracle, MySQL etc. to demonstrate and show the evils of redundancy by introducing the concepts of functional dependencies and their types. to design full-fledged physical database systems with least redundancy and most optimized manner. to build their independent projects emphasizing the data requirement.",
+        "requirements": "CSE 225"
+    },
+    {
+        "id": 5,
+        "img": "https://apnaahangout.com/wp-content/uploads/2018/03/Software-Engineering-Courses.png",
+        "title": "CSE 327",
+        "name": "Software Engineering",
+        "time": 3,
+        "fee": 12,
+        "details": "Course Summary: Follows the software life cycle – from requirement, specification, and design phases through the construction of actual software. Topics include management of programming teams, programming methodologies, debugging aids, documentation, evaluation and measurement of software, verification and testing techniques, and the problems of maintenance, modification, and portability.",
+        "obj": "Course Objectives: The objectives of this course are: Give the students an appreciation of the complexity involved in the inception, design, implementation and delivery of modern software systems. Students should appreciate what makes quality software and how software engineering topics/methods can be effective to deliver such quality products. The course will present theoretical material and create opportunities for students to apply what they learn in class and from other sources.",
+        "requirements": "CSE 311"
+    },
+    {
+        "id": 6,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51OQZia0jYL.jpg",
+        "title": "CSE 482",
+        "name": "Internet and Web Technology",
+        "time": 3,
+        "fee": 22,
+        "details": "The course develops an in-depth knowledge of the concepts, principles and implementation techniques related to the Internet and web technology. Details about the Internet, Intranet, Extranet, and e-commerce will be covered. Topics include Web server management, threats, security of client and server, network security like firewall, SSL, etc., authentication and authorization, legislation, privacy and IP act, electronic payment, e-business, search engine, Internet protocols like TCP/IP, SGML, XML. Design and development of Web applications using Java Applets, ASP, Java Script, CGI and other Web tools is discussed.",
+        "obj": "Course Objectives: The objective of this course are to:  authentication and authorization, legislation, privacy and IP act, electronic payment, e-business, search engine, Internet protocols like TCP/IP, SGML, XML. Design and development of Web applications using Java Applets, ASP, Java Script, CGI and other Web tools is discussed.      ",
+        "requirements": "CSE 338"
+    }
+]
